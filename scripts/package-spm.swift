@@ -29,6 +29,7 @@ let allowedExtensions = [
     ".h",
     ".m",
     ".c",
+    ".mp4"
 ]
 
 func isExtensionAllowed(_ path: String) -> Bool {
